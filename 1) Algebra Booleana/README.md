@@ -42,8 +42,23 @@ En lógica booleana, una fórmula está en forma normal conjuntiva (FNC) si corr
 
 ![FNC](http://latex.codecogs.com/gif.latex?%5Cleft%28x&plus;y&plus;z%5Cright%29%5Ccdot%20%5Cleft%28x&plus;y&plus;%5Coverline%7Bz%7D%5Cright%29%5Ccdot%20%5Cleft%28x&plus;%5Coverline%7By%7D&plus;%5Coverline%7Bz%7D%5Cright%29%5Ccdot%20%5Cleft%28%5Coverline%7Bx%7D&plus;%5Coverline%7By%7D&plus;%5Coverline%7Bz%7D%5Cright%29)
 
+### Ejercicios:
+
+#### 1) Pasar una función a Forma Normal Disyuntiva
+![funtion](http://latex.codecogs.com/gif.latex?f%5Cleft%28x%2C%5C%3Ay%2C%5C%3Az%5Cright%29%5C%3A%3D%5C%3A%5Cleft%28x%5C%3A&plus;%5C%3Ay%5Cright%29%5Ccdot%20%5Coverline%7Bz%7D)
+
+![function](http://latex.codecogs.com/gif.latex?x%5Coverline%7Bz%7D%5C%3A&plus;%5C%3Ay%5Coverline%7Bz%7D%5C%3A%3D%5C%3Ax1%5Coverline%7Bz%7D%5C%3A&plus;%5C%3A1y%5Coverline%7Bz%7D)
+
+![function](http://latex.codecogs.com/gif.latex?%5C%3Ax%5Cleft%28y&plus;%5Coverline%7By%7D%5Cright%29%5Coverline%7Bz%7D%5C%3A&plus;%5C%3A%5Cleft%28x&plus;%5Coverline%7Bx%7D%5Cright%29y%5Coverline%7Bz%7D)
+
+![function](http://latex.codecogs.com/gif.latex?xy%5Coverline%7Bz%7D%5C%3A&plus;%5C%3Ax%5Coverline%7By%7D%5Coverline%7Bz%7D%5C%3A&plus;%5C%3Axy%5Coverline%7Bz%7D%5C%3A&plus;%5C%3A%5Coverline%7Bx%7Dy%5Coverline%7Bz%7D%5C%3A)
+
+![funtion](http://latex.codecogs.com/gif.latex?%3D%5C%3Axy%5Coverline%7Bz%7D%5C%3A&plus;%5C%3Ax%5Coverline%7By%7D%5Coverline%7Bz%7D%5C%3A&plus;%5C%3A%5Coverline%7Bx%7Dy%5Coverline%7Bz%7D%5C%3A)
+
 ### Bibliografia
 
 [[1] Algebra de Boolean - Wikipedia](https://es.wikipedia.org/wiki/Formas_canónicas_(álgebra_de_Boole))
 
 [[2] Forma normal disyuntiva - Wikipedia](https://es.wikipedia.org/wiki/Forma_normal_disyuntiva)
+
+[[3] Forma normal conjuntiva - Wikipedia](https://es.wikipedia.org/wiki/Forma_normal_conjuntiva)
