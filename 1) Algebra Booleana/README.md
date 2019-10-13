@@ -36,7 +36,7 @@ En lógica booleana, una forma normal disyuntiva (FND) es una estandarización (
 ### Forma Normal Conjuntiva (FNC)
 En lógica booleana, una fórmula está en forma normal conjuntiva (FNC) si corresponde a una conjunción de cláusulas, donde una cláusula es una disyunción de literales, donde un literal y su complemento no pueden aparecer en la misma cláusula.
 
-*Suma de Maxiterminos*
+*Producto de Maxiterminos*
 
 **Ejemplo:**
 
