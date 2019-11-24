@@ -1,4 +1,4 @@
-# Numeros Pseudoaleatorios
+# Numeros Pseudoaleatorios - Generadores Congruentes Mixtos
 
 Un número Pseudo-aleatorio es un número generado mediante un proceso que usa una formula matematica para producir secuencias de numeros, estas secuencias se aproximan a las propiedades de los numeros aleatorios a pesar de que no los son ya que es un proceso netamente determinista definido por un valor inicial llamado `semilla`, cabe señalar que para la misma semilla se generaran dos numeros iguales.
 
