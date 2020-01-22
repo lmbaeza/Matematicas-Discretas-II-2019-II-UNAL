@@ -85,9 +85,9 @@ Si `z` es ka raiz de multiplicidad `m` entonces buscamos una solución de la for
 Y se debe determinan los valores de las constantes `β` y `x`.
 
 # Bibliografia
-[[1] ...]()
+[[1]](https://images-na.ssl-images-amazon.com/images/I/21dyiE2bogL._BO1,204,203,200_.jpg) Rosen, K. (n.d.). Discrete mathematics and its applications. McGraw Hill, pp.384-396.
 
-[[2]](https://www.youtube.com/watch?v=GVQnbhqg2tU)YouTube. (2020). Matemática Discreta - Ecuaciones recurrentes lineales homogéneas. [online] Available at: https://www.youtube.com/watch?v=GVQnbhqg2tU.
+[[2]](https://www.youtube.com/watch?v=GVQnbhqg2tU) YouTube. (2020). Matemática Discreta - Ecuaciones recurrentes lineales homogéneas. [online] Available at: https://www.youtube.com/watch?v=GVQnbhqg2tU.
 
 [[3]](https://www.youtube.com/watch?v=Y6IFHKuSYzI) YouTube. (2020). Matemática Discreta - Ecuaciones recurrentes lineales homogéneas 2. [online] Available at: https://www.youtube.com/watch?v=Y6IFHKuSYzI.
 
