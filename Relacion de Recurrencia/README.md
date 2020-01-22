@@ -2,10 +2,10 @@
 
 ## Contenido
 
-* [Formulas Importantes](#)
+* [Formulas Importantes](##formulas-importantes)
 * [Relación de Recurrencia de 1er Orden](#relación-de-recurrencia-de-1er-orden)
-* [Ecuación Caracteristica de 2do Orden](#)
-* [Casos Posibles](#)
+* [Ecuación Caracteristica de 2do Orden](#ecuación-caracteristica-de-2do-orden)
+* [Casos Posibles](##casos-posibles)
 * [Bibliografia](#bibliografia)
 
 ## Formulas Importantes
@@ -86,3 +86,9 @@ Y se debe determinan los valores de las constantes `β` y `x`.
 
 # Bibliografia
 [[1] ...]()
+
+[[2]](https://www.youtube.com/watch?v=GVQnbhqg2tU)YouTube. (2020). Matemática Discreta - Ecuaciones recurrentes lineales homogéneas. [online] Available at: https://www.youtube.com/watch?v=GVQnbhqg2tU.
+
+[[3]](https://www.youtube.com/watch?v=Y6IFHKuSYzI) YouTube. (2020). Matemática Discreta - Ecuaciones recurrentes lineales homogéneas 2. [online] Available at: https://www.youtube.com/watch?v=Y6IFHKuSYzI.
+
+[[4]](https://www.youtube.com/watch?v=JHeVpfXyaB4) YouTube. (2020). Método de la ecuación característica para recurrencias homogéneas lineales de segundo orden con coef. [online] Available at: https://www.youtube.com/watch?v=JHeVpfXyaB4.
