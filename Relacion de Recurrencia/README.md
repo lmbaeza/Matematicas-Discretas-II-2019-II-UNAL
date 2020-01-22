@@ -2,8 +2,20 @@
 
 ## Contenido
 
+* [Formulas Importantes](#)
 * [Relación de Recurrencia de 1er Orden](#relación-de-recurrencia-de-1er-orden)
+* [Ecuación Caracteristica de 2do Orden](#)
+* [Casos Posibles](#)
 * [Bibliografia](#bibliografia)
+
+## Formulas Importantes
+* Esta ecuación solo se cumple si todas las soluciones de la ecuación caracteristica son diferentes.
+
+    * ![Ecuacion 1](http://www.sciweavers.org/upload/Tex2Img_1579666667/render.png)
+
+* Esta ecuación solo se cumple si se retire alguna solucion de la ecuación caracteristica.
+
+    * ![Ecuación 2](http://www.sciweavers.org/upload/Tex2Img_1579666860/render.png)
 
 ## Relación de Recurrencia de 1er Orden
 * Una Relación de Recurencia Lineal, Homogenea de orden `k` y con coeficiente constante es una relación de recurrencia de la forma:
@@ -43,6 +55,34 @@ Para `n = 0, 1, 2, 3, ...`  donde `α1` y `α2` son constantes.
 ![A n de p](http://www.sciweavers.org/upload/Tex2Img_1579662967/render.png) Solución Particular
 
 ![A de n](http://www.sciweavers.org/upload/Tex2Img_1579663040/render.png) Solución  General
+
+* Si ![A n de p](http://www.sciweavers.org/upload/Tex2Img_1579662967/render.png) es una solución particular de:
+
+![Ecuacion 2](http://www.sciweavers.org/upload/Tex2Img_1579665661/render.png)
+
+y ![Ecuacion 3](http://www.sciweavers.org/upload/Tex2Img_1579665720/render.png) forman un sistema fundamental de soluciones `(h)`, entonces la **Solución General** es:
+
+![Ecuación 4](http://www.sciweavers.org/upload/Tex2Img_1579665859/render.png)
+
+## Casos Posibles
+
+* Si ![Ecuacion 5](http://www.sciweavers.org/upload/Tex2Img_1579665959/render.png), para el ejemplo:
+
+![Ecuacion 6](http://www.sciweavers.org/upload/Tex2Img_1579666024/render.png)
+
+Probar con ![Ecuacion 7](http://www.sciweavers.org/upload/Tex2Img_1579666110/render.png) Excepto si `z` es la raiz de la ecuación caracteristica.
+
+Si `z` es ka raiz de multiplicidad `m` entonces buscamos una solución de la forma.
+
+![Ecuacion 8](http://www.sciweavers.org/upload/Tex2Img_1579666220/render.png)
+
+* Si `q(n)` es un polinomio de grado `k`, buscamos soluciones en forma de polinomio del mismo grado. Si el 1 es raiz de la ecuación caracteristica, tomamos un polinomio de grado `k+1`, si ademas tiene grado de multiplicidad `c` probamos con un polinomio de grado `n+c`.
+
+* Si `q(n)` es `sen(z*n)` o `cos(z*n)` entonces:
+
+![Ecuacion 9](http://www.sciweavers.org/upload/Tex2Img_1579666466/render.png)
+
+Y se debe determinan los valores de las constantes `β` y `x`.
 
 # Bibliografia
 [[1] ...]()
