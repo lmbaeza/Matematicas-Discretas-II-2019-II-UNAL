@@ -26,7 +26,7 @@ Donde  `C1, C2, C3, ..., Cn` Son numeros reales con `Ck ≠ 0`.
 
 ## Teorema I
 
-Sean `c1` y `c2` Números reales. Supongamos que ![Ejemplo 1](http://www.sciweavers.org/upload/Tex2Img_1579649727/render.png) tiene dos(2) raices reales distintas `r1` y `r2`. Entonces la sucesión ![A de n](http://www.sciweavers.org/upload/Tex2Img_1579662500/render.png) es una solución de la relación de recurrencia:
+Sean `c1` y `c2` Números reales. Supongamos que ![Ejemplo 1](http://www.sciweavers.org/upload/Tex2Img_1579663621/render.png) tiene dos(2) raices reales distintas `r1` y `r2`. Entonces la sucesión ![A de n](http://www.sciweavers.org/upload/Tex2Img_1579662500/render.png) es una solución de la relación de recurrencia:
 
 ![Relación de Recurrencia](http://www.sciweavers.org/upload/Tex2Img_1579662630/render.png) 
 
